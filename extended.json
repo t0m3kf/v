@@ -8,7 +8,7 @@
         },
         "about": {
             "me": "Cardano pool protected by Viking Gods",
-            "server": "BP 32GB RAM 10 vCPU / Relays 16GB RAM 6vCPU / 2.5Gbit/s"
+            "server": "BP 32GB RAM 10 vCPU | Relays 16GB RAM 6vCPU | 2.5Gbit/s"
         }
     },
     "my-pool-ids": {
