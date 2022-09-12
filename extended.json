@@ -1,14 +1,14 @@
 {
     "info": {
         "url_png_icon_64x64": "https://github.com/t0m3kf/v/raw/main/logo_valknut_64x64.png",
-        "location": "Hamina, Finland",
+        "location": "Edinburgh, Scotland",
         "social": {
             "twitter_handle": "valhallapool",
             "telegram_handle": "valhallapool"
         },
         "about": {
             "me": "Cardano pool protected by Viking Gods",
-            "server": "Google Cloud VMs with 4 VCPU, 16GB RAM, 3Gbit/s"
+            "server": "BP 32GB RAM 10 vCPU / Relays 16GB RAM 6vCPU / 2.5Gbit/s"
         }
     },
     "my-pool-ids": {
