@@ -2,5 +2,6 @@
   "name": "Valhalla",
   "description": "Valhalla - testnet",
   "ticker": "VLHLA",
-  "homepage": "https://valhallapool.net"
+  "homepage": "https://valhallapool.net",
+  "extended": "https://raw.githubusercontent.com/t0m3kf/v/main/testnet-extended.json"
 }
