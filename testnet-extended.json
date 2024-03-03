@@ -1,0 +1,17 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://github.com/t0m3kf/v/raw/main/logo_valknut_64x64.png",
+        "location": "Edinburgh, Scotland",
+        "social": {
+            "twitter_handle": "valhallapool",
+            "telegram_handle": "valhallapool",
+            "discord_handle": "https://discord.gg/rMDtfvpdPA"
+        },
+        "about": {
+            "me": "Cardano pool protected by Viking Gods",
+        }
+    },
+    "my-pool-ids": {
+        "0": "29889ecc8151e5a93fcd321cd905eee0f50c8364273550205058bfe8"
+    },
+}
